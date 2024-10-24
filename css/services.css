@@ -1,0 +1,45 @@
+#heading1{
+    text-align: center;
+}
+.paragraph{
+    font-family: Dejavu sans tahoma;
+    font-size: 18px;
+}
+#div1{
+    background-color: dodgerblue;
+    margin: 40px;
+    padding: 30px;
+    color: white;
+}
+#div2{
+    background-color: #555555;
+    margin: 40px;
+    padding: 30px;
+    display: flex;
+    color: white;
+}
+#div2 img{
+    margin-right: 40px;
+    border-radius: 400px;
+}
+#main{
+    display: flex;
+}
+#advertise{
+    background-color: dodgerblue;
+    color: white;
+    margin-left: 40px;
+    padding: 50px;
+}
+#accounting{
+    background-color: orangered;
+    color: white;
+    margin-left: 40px;
+    padding: 50px
+}
+#payment{
+    background-color: forestgreen;
+    color: white;
+    margin-left: 40px;
+    padding: 50px
+}
